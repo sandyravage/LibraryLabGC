@@ -1,0 +1,7 @@
+C:\Users\TEVERTS\source\repos\LIBRARYLABGC\LIBRARYLABGC\bin\Debug\LIBRARYLABGC.exe.config
+C:\Users\TEVERTS\source\repos\LIBRARYLABGC\LIBRARYLABGC\bin\Debug\LIBRARYLABGC.exe
+C:\Users\TEVERTS\source\repos\LIBRARYLABGC\LIBRARYLABGC\bin\Debug\LIBRARYLABGC.pdb
+C:\Users\TEVERTS\source\repos\LIBRARYLABGC\LIBRARYLABGC\obj\Debug\LIBRARYLABGC.csprojAssemblyReference.cache
+C:\Users\TEVERTS\source\repos\LIBRARYLABGC\LIBRARYLABGC\obj\Debug\LIBRARYLABGC.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\LIBRARYLABGC\LIBRARYLABGC\obj\Debug\LIBRARYLABGC.exe
+C:\Users\TEVERTS\source\repos\LIBRARYLABGC\LIBRARYLABGC\obj\Debug\LIBRARYLABGC.pdb
